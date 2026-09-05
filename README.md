@@ -1,4 +1,4 @@
-# Game click bot
+# RoK click bot
 This program allows you to save clicks and replay them for any length of time.
 
 <img width="960" height="540" alt="RoK" src="https://github.com/user-attachments/assets/80a48cdb-3e24-4818-8ed0-e8fc9e28270d" />
